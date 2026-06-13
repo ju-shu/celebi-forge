@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://br64aqjhf2ors"]
+
+[ext_resource type="Texture2D" uid="uid://fdxvipx7xay7" path="res://celebi-forge/7.png" id="2_vk2hd"]
+
+[node name="Node2D" type="Node2D" unique_id=305258834]
+
+[node name="7" type="Sprite2D" parent="." unique_id=1921627676]
+position = Vector2(148, 181)
+texture = ExtResource("2_vk2hd")
